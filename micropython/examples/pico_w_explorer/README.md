@@ -48,7 +48,7 @@ This example borrows a CircuitPython hsv to rgb function to cycle through some r
 ### Thermometer
 [thermometer.py](thermometer.py)
 
-This example takes the temperature from the Pico's onboard temperature sensor, and displays it on Pico W Explorer, along with a little pixelly graph.
+This example takes the temperature from the Pico W's onboard temperature sensor, and displays it on Pico W Explorer, along with a little pixelly graph.
 
 ### Weather Station (BME280)
 [weatherstation_BME280.py](weatherstation_BME280.py)
